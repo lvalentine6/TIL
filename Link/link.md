@@ -24,4 +24,7 @@
 * [한재엽님의 이력서](https://jbee.io/about/)
 * [유용우님의 이력서](https://resume.yowu.dev/)
 
+코드리뷰 자료
+* [뱅크 샐러드의 코드리뷰 문화](https://blog.banksalad.com/tech/banksalad-code-review-culture/)
+* [GitHub 사용자 교육 코드리뷰](https://githubkorea.tistory.com/91)
 
