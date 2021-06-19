@@ -31,4 +31,5 @@
 -------------
 * [뱅크 샐러드의 코드리뷰 문화](https://blog.banksalad.com/tech/banksalad-code-review-culture/)
 * [GitHub 사용자 교육 코드리뷰](https://githubkorea.tistory.com/91)
+* [구글 개발자 Code Review 가이드 번역본](https://wnsgml972.github.io/devops/2020/05/17/CodeReview1/)
 
