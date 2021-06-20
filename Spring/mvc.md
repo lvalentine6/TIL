@@ -85,6 +85,6 @@ Spring MVC
 
 참고
 ---------
-[JSP 모델1과 모델2, 그리고 MVC 패턴](https://hsp1116.tistory.com/9)
-[부스트코스 Spring MVC](https://www.boostcourse.org/web316/lecture/16762?isDesc=false)
-[스프링 MVC](https://dailyheumsi.tistory.com/159)
+[JSP 모델1과 모델2, 그리고 MVC 패턴](https://hsp1116.tistory.com/9)     
+[부스트코스 Spring MVC](https://www.boostcourse.org/web316/lecture/16762?isDesc=false)       
+[스프링 MVC](https://dailyheumsi.tistory.com/159)        
