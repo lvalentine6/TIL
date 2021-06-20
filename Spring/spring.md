@@ -23,6 +23,3 @@ Framework와 Library의 차이점
 * Library : 사용자가 원하는 로직이나 연산 결과를 얻을수 있게 제공하는 함수나 기능들    
 	* ex): 카레를 돌리기 위한 전자레인지 같은 도구     
 
-Spring Framework 설정 파일 구조
-------------------------
-<img src="img/SpringSetting.png" width="650px" height="300px"  alt="Spring 설정 파일 구조"></img><br/>
