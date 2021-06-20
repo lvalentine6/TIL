@@ -61,7 +61,7 @@ MVC Model 2 아키텍쳐
 Spring MVC
 -------------
 
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcAkzFN%2FbtqBp4AIlD3%2FmE8PbHZQh0WtvB0wqULb3k%2Fimg.png" width="650px" height="300px"  alt="Spring MVC 동작 흐름"></img><br/>
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcAkzFN%2FbtqBp4AIlD3%2FmE8PbHZQh0WtvB0wqULb3k%2Fimg.png" width="650px" height="450px"  alt="Spring MVC 동작 흐름"></img><br/>
 
 ###### 출처 : 부스트 코스 (https://www.boostcourse.org/web316/lecture/16762?isDesc=false)
 
