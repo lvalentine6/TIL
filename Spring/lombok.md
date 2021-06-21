@@ -21,8 +21,8 @@ lombok의 기능
 ------------
 __어노테이션을 클래스 선언 상단에 위치시키면 모든 변수들에 적용되고 변수 이름 위에 위치시키면 해당 변수들만 적용된다.__      
 
-* @Getter    
-* @Setter     
+* @Getter : Getter 메소드 생성             
+* @Setter : Setter 메소드 생성         
 * @AllArgsConstructor : 모든 변수를 사용하는 생성자를 자동완성    
 * @NoArgsConstructor : 모든 변수를 사용하지 않는 기본 생성자를 자동완성   
 * @RequiredArgsConstructor : 
