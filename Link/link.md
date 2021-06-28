@@ -8,6 +8,7 @@
 * [Java8 공식 문서](https://docs.oracle.com/javase/8/docs/api/)
 * [마크다운 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 * [vi에디터 사용법](https://blog.lael.be/post/7321)
+* [자바 코딩 규칙 번역본](https://myeonguni.tistory.com/1596)
 
 면접대비 자료
 -----------------------
