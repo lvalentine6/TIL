@@ -7,6 +7,7 @@
 * [Mybatis 공식 한글 문서](https://mybatis.org/mybatis-3/ko/index.html)
 * [Java8 공식 문서](https://docs.oracle.com/javase/8/docs/api/)
 * [마크다운 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+* [vi에디터 사용법](https://blog.lael.be/post/7321)
 
 면접대비 자료
 -----------------------
