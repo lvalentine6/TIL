@@ -159,6 +159,8 @@ for(초깃값, 조건식, 증감식) {
 	}
 }
 ```
+
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
