@@ -2,8 +2,8 @@ Since 2021.06.20 Today I Learned(TIL)
 ==========
 Algorithm
 ---------
-[알고리즘 저장소](https://github.com/lvalentine6/algorithm)
-[기본 알고리즘 요약](https://github.com/lvalentine6/TIL/tree/main/Algorithm)
+[알고리즘 저장소](https://github.com/lvalentine6/algorithm)   
+[기본 알고리즘 요약](https://github.com/lvalentine6/TIL/tree/main/Algorithm)    
 
 [Java](https://github.com/lvalentine6/TIL/tree/main/Java)
 --------
@@ -11,8 +11,8 @@ Algorithm
 
 [JavaScript](https://github.com/lvalentine6/TIL/tree/main/Js)
 -----------
-[Doit 요약 1](https://github.com/lvalentine6/TIL/blob/main/Js/doit-js1.md)
-[Doit 요약 2](https://github.com/lvalentine6/TIL/blob/main/Js/doit-js2.md)
+[Doit 요약 1](https://github.com/lvalentine6/TIL/blob/main/Js/doit-js1.md)    
+[Doit 요약 2](https://github.com/lvalentine6/TIL/blob/main/Js/doit-js2.md)      
 
 [Spring](https://github.com/lvalentine6/TIL/tree/main/Spring)
 --------
