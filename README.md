@@ -1,6 +1,6 @@
 Since 2021.06.20 Today I Learned(TIL)
 ==========
-[Algorithm]
+Algorithm
 ---------
 [알고리즘 저장소](https://github.com/lvalentine6/algorithm)
 [기본 알고리즘 요약](https://github.com/lvalentine6/TIL/tree/main/Algorithm)
