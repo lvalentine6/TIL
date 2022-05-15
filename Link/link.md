@@ -35,3 +35,7 @@
 * [GitHub 사용자 교육 코드리뷰](https://githubkorea.tistory.com/91)
 * [구글 개발자 Code Review 가이드 번역본](https://wnsgml972.github.io/devops/2020/05/17/CodeReview1/)
 
+읽어볼것들
+-----------
+* [애자일하게 일한다는 것은?](https://hr.wanted.co.kr/hrambassador/%ec%a7%81%ec%9e%a5%ec%97%90%ec%84%9c-%ec%82%b4%ec%95%84%eb%82%a8%ea%b8%b0-%ec%95%a0%ec%9e%90%ec%9d%bc-%ed%8e%b8/)
+
