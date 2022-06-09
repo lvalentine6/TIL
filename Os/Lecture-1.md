@@ -54,7 +54,7 @@
 
 용어 정리
 ------------
-Multitaksing = 여러 작업을 동시에 수행하는 것을 의미
-Multiprogramming += 여러 프로그램이 메모리에 올라가 있음을 강조
-Time sharing += CPU의 시간을 분할하여 나누어 쓴다는 의미를 강조
-Multiprocess  = 하나의 컴퓨터에 CPU가 여러 개 붙어 있음을 의미
+* Multitaksing = 여러 작업을 동시에 수행하는 것을 의미
+* Multiprogramming += 여러 프로그램이 메모리에 올라가 있음을 강조
+* Time sharing += CPU의 시간을 분할하여 나누어 쓴다는 의미를 강조
+* Multiprocess  = 하나의 컴퓨터에 CPU가 여러 개 붙어 있음을 의미
