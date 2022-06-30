@@ -40,4 +40,4 @@ cpu scheduling
     * Response time이 빠르다는 장점
     * q가 크면 -> FCFS
     * q가 너무 작으면 문맥교환으로 오버헤드가 커짐
-    * 모든 프로세스의 burst time이 갇다면 Turnaround time이 늘어날수도 있음
+    * 모든 프로세스의 burst time이 같다면 Turnaround time이 늘어날수도 있음
