@@ -1,6 +1,6 @@
 process synchronization2
 ------------------
-* Critical Section
+* Critical Section 
   * 소프트웨어적 해결볍의 충족 요건
     * Mutual Exclusion
       * 하나의 프로세스가 Critical Section 부분을 수행중이면 다른 프로세스의 접근 차단
