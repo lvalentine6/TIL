@@ -17,7 +17,7 @@ cpu scheduling
   * FCFS(first come first served)
     * 프로세스의 도착 순서에 따라 대기시간이 다름
   * SJF(shortest job first)
-    * 각 프로세ㅅ의 다음번 cpu burst time을 가지고 스케줄링에 활용
+    * 각 프로세스의 다음번 cpu burst time을 가지고 스케줄링에 활용
     * cpu burst time이 가장 짧은 프로세스를 제일 먼저 스케줄
       * Nonpreemptive
         * 일단 cpu를 잡으면 cpu burst가 완료될 때까지 cpu를 뺏기지(preemptive) 않음
