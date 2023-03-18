@@ -44,9 +44,9 @@ class EmployeeRepository {
 // OCP를 위반한 예시
 
 class Employee {
-    private String name;
-    private double salary;
-    private String type;
+    private final String name;
+    private final double salary;
+    private final String type;
 
     public Employee(String name, double salary, String type) {
         this.name = name;
@@ -70,8 +70,8 @@ interface Employee {
 }
 
 class Manager implements Employee {
-    private String name;
-    private double salary;
+    private final String name;
+    private final double salary;
 
     public Manager(String name, double salary) {
         this.name = name;
@@ -84,8 +84,8 @@ class Manager implements Employee {
 }
 
 class Engineer implements Employee {
-    private String name;
-    private double salary;
+    private final String name;
+    private final double salary;
 
     public Engineer(String name, double salary) {
         this.name = name;
@@ -161,7 +161,7 @@ class Rectangle implements Shape {
 }
 
 class Square implements Shape {
-    private int side;
+    private final int side;
 
     public Square(int side) {
         this.side = side;
@@ -260,7 +260,7 @@ class Engineer implements Workable {
 // DIP를 위반한 예시
 
 class Switch {
-    private Light light;
+    private final Light light;
 
     public Switch() {
         this.light = new Light();
@@ -294,7 +294,7 @@ interface Switchable {
 }
 
 class Switch {
-    private Switchable device;
+    private final Switchable device;
 
     public Switch(Switchable device) {
         this.device = device;

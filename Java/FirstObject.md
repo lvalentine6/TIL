@@ -51,7 +51,7 @@
     
     print(hello);
     ```
-  * 일급 객체는 함수의 리턴값으로 사용할 수 있어야 한다.
+    * 일급 객체는 함수의 리턴값으로 사용할 수 있어야 한다.
   ```js
     const hello = function() {
         console.log("Hello World");
@@ -63,9 +63,9 @@
     const hello2 = hello();
     hello2();
   ```
-    
+
 * 람다와 익명클래스를 이용해서 자바에서도 일급 객체를 사용할 수 있게 되었다.
-  * 일급 객체는 변수나 데이터에 담을수 있어야 한다.
+    * 일급 객체는 변수나 데이터에 담을수 있어야 한다.
   ```java
   import java.util.function.Consumer;
   
@@ -76,7 +76,7 @@
       }
   }
   ```
-  * 일급 객체는 변수나 데이터에 담을수 있어야 한다.
+    * 일급 객체는 변수나 데이터에 담을수 있어야 한다.
   ```java
   import java.util.function.Consumer;
 
@@ -91,7 +91,7 @@
     }
   }
   ```
-  * 일급 객체는 변수나 데이터에 담을수 있어야 한다.
+    * 일급 객체는 변수나 데이터에 담을수 있어야 한다.
   ```java
   import java.util.function.Consumer;
 
