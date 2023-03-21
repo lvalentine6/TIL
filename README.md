@@ -6,7 +6,7 @@ Algorithm
 [새로운 알고리즘 저장소](https://github.com/lvalentine6/IntellJ_algorithm)    
 [기본 알고리즘 요약](https://github.com/lvalentine6/TIL/tree/main/Algorithm)    
 
-[Java](https://github.com/lvalentine6/TIL/tree/main/Java)
+[Java](https://github.com/lvalentine6/TIL/tree/main/Java) 
 --------
 [Dao, Dto 요약](https://github.com/lvalentine6/TIL/blob/main/Java/dao_dto_vo.md)
 
