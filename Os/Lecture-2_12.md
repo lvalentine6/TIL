@@ -11,8 +11,8 @@
         * OS는 다른 사용자 프로그램에게 cpu 점유권을 넘겨줌
     * memory controller, device controller
         * 메모리, IO 디바이스 작업을 수행하고 동시 작업을 제어함
-    
-* 사용자 프로그램은 IO가 발생하게 되면 메모리 영역에 직접 접근할 수 없기 때문에 OS에     interrupt를 걸어 __system call__ 을 요청 (trep)
+
+* 사용자 프로그램은 IO가 발생하게 되면 메모리 영역에 직접 접근할 수 없기 때문에 OS에 interrupt를 걸어 __system call__ 을 요청 (trep)
     * 사용자 프로그램이 IO 디바이스에 마음대로 접근하는것을 막고자 함
     * OS는 interrupt를 판단하고 적절한지 파악후 IO controller에 명령을 내림
     * 그리고 다른 사용자 프로그램에게 cpu 점유권을 넘김
@@ -35,12 +35,12 @@
     * IO가 발생하면 명령을 지시하고 결과를 기다리지 않고 cpu를 사용자 프로그램에게 반환 cpu는 결과에 영향을 받지 않는 다른 일을 수행함
 
 * DMA controller
-    * 메모리에 직접 접근이 가능함  virtual memory  받아서 처리하여 잦은 interrupt를 방지하고 cpu 효율을 향상시킴
+    * 메모리에 직접 접근이 가능함 virtual memory 받아서 처리하여 잦은 interrupt를 방지하고 cpu 효율을 향상시킴
 
 * 프로그램의 실행
     * 프로그램은 실행파일 형태로 disk에 저장되어 있음
     * 프로그램이 실행되면 binary가 memory에 올라가고 자신의 memory 공간을 할당받음
-    * 실제 메모리에는 주소값이 연속적이지 않을수 있지만 각 프로그램 입장에서는 연속적으로 메모리 주소를 할당받은것 처럼 보임 이것이 virtual memory 
+    * 실제 메모리에는 주소값이 연속적이지 않을수 있지만 각 프로그램 입장에서는 연속적으로 메모리 주소를 할당받은것 처럼 보임 이것이 virtual memory
     * 프로그램은 할당 받은 memory에 code, data, stack 영역을 나누고 사용한다.
         * code : cpu에서 실행할 기계어
         * data : code에서 사용할 전역 변수등

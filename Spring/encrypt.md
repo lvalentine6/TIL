@@ -12,6 +12,7 @@
 
 카이사르 암호화
 -----------
+
 - 카이사르 암호화는 로마의 정치가이자 군인이었던 카이사르의 이름에서 기원하였다.
 - 각각의 알파벳을 + 혹은 - 를 수행하여 암호화를 수행한다.
 
@@ -52,20 +53,21 @@
 - ^ : 대응되는 비트가 서로 다르면 1을 반환함 (XOR 연산)
 - ~ : 비트가 1이면 0으로 0이면 1로 반전시킴 (NOT 연산)
 - << : 지정한 수만큼 비트들을 전부 왼쪽으로 이동시킴 (Left shift 연산)
-- >> : 부호를 유지하면서 지정한 수만큼 비트를 전부 오른쪽으로 이동시킴 (Right shift 연산)
+- > > : 부호를 유지하면서 지정한 수만큼 비트를 전부 오른쪽으로 이동시킴 (Right shift 연산)
 
 XOR 암호화
 -----------
+
 - 비트 연산자를 이용하여 암호화를 수행한다.
 - spring-security-core 라이브러리를 사용하여 암호화, 복호화를 실행한다.
 
 ***
 
 @Test
-	public void test() {
-		String origin = "hello";
-		log.debug("origin = {}", origin);
-		
+public void test() {
+String origin = "hello";
+log.debug("origin = {}", origin);
+
 		PasswordEncoder encoder = new BCryptPasswordEncoder();
 		String encrypt = encoder.encode(origin);
 		log.debug("encrypt = {}", encrypt);
@@ -73,13 +75,13 @@ XOR 암호화
 		boolean match = encoder.matches("hello", encrypt);
 		log.debug("match = {}", match);
 	}
-	
+
 ***
- 
+
 도구
 -----------
 
 - PasswordEncoder
-	- StandardPasswordEncoder
-	- ScryptPasswordEncoder
-	- BcryptPasswordEncoder
+    - StandardPasswordEncoder
+    - ScryptPasswordEncoder
+    - BcryptPasswordEncoder

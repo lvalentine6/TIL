@@ -12,18 +12,20 @@
 
 면접대비 자료
 -----------------------
+
 * [신입 개발자 전공 지식 & 기술 면접 백과사전](https://gyoogle.dev/blog/)
 * [Tech-interview](https://github.com/WeareSoft/tech-interview)
 * [회사에 대한 질문들 참고](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Reverse_Interview)
 
-
 다른 개발자님들 TIL 저장소 모음
 -----------------------
+
 * [김남윤님의 TIL 저장소](https://github.com/cheese10yun/TIL)
 * [김남준님의 TIL 저장소](https://github.com/namjunemy/TIL)
 
 다른 개발자님들 이력서 모음
 -----------------------
+
 * [이동욱님의 이력서](https://jojoldu.github.io/)
 * [정원희님의 이력서](https://www.notion.so/Wonny-e64e2e55653c4d8b8b632118b36bdd72)
 * [한재엽님의 이력서](https://jbee.io/about/)
@@ -31,11 +33,13 @@
 
 코드리뷰 자료
 -------------
+
 * [뱅크 샐러드의 코드리뷰 문화](https://blog.banksalad.com/tech/banksalad-code-review-culture/)
 * [GitHub 사용자 교육 코드리뷰](https://githubkorea.tistory.com/91)
 * [구글 개발자 Code Review 가이드 번역본](https://wnsgml972.github.io/devops/2020/05/17/CodeReview1/)
 
 읽어볼것들
 -----------
+
 * [애자일하게 일한다는 것은?](https://hr.wanted.co.kr/hrambassador/%ec%a7%81%ec%9e%a5%ec%97%90%ec%84%9c-%ec%82%b4%ec%95%84%eb%82%a8%ea%b8%b0-%ec%95%a0%ec%9e%90%ec%9d%bc-%ed%8e%b8/)
 
